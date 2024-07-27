@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Eval3AppMovil_iturra</string>
+    <string-array name="eliminar">
+        <item>Eliminar Boleta N°</item>
+        <item>Boleta 001</item>
+
+    </string-array>
+    <string-array name="salas">
+        <item>Elija Sala N°</item>
+        <item>Sala 1</item>
+        <item>Sala 2</item>
+        <item>Sala 3</item>
+        <item>Sala 4</item>
+        <item>Sala 5</item>
+        <item>Sala 6</item>
+    </string-array>
+    <string-array name="peliculas">
+        <item>Seleccione Película</item>
+        <item>Sonrie</item>
+        <item>Hallowen Ends</item>
+        <item>Black Adams</item>
+        <item>Barbaro</item>
+        <item>DC Ligas de Supermascotas</item>
+        <item>La Huerfana el Origen</item>
+    </string-array>
+</resources>

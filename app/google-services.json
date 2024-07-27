@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001810051795",
+    "project_id": "eva3movilesiturra",
+    "storage_bucket": "eva3movilesiturra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001810051795:android:ac30bc27f3c15685ee0a26",
+        "android_client_info": {
+          "package_name": "cl.inacap.eval3appmovil_iturra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001810051795-cfo2v06fr48sp5ap6qrcuokcb5s8o6nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRFCFdDWHoFYexrDpXTxksMGluPHFrGnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001810051795-cfo2v06fr48sp5ap6qrcuokcb5s8o6nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

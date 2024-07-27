@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/menu8"
+    tools:context=".MenuAdmin">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvsesionadmin"
+        android:background="@color/naranjo"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:text="Bienvenido Administrador"
+        android:padding="20dp"
+        />
+
+    <TextView
+        android:id="@+id/tvsesionarriendoadmin2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="25dp"
+        android:text="MENU"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="84dp" />
+
+
+    <ImageButton
+        android:id="@+id/btnop1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/gestarriendo"
+        android:clickable="true"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <ImageButton
+        android:id="@+id/btnop2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/gestausuarios"
+        android:clickable="true"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="136dp"
+
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/salir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="280dp"
+            android:background="@drawable/salir"
+            android:clickable="true">
+
+        </ImageButton>
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
